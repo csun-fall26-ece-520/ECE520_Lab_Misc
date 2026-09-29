@@ -1,4 +1,5 @@
 `timescale 1ns / 1ps
+
 module tb_mult();
 
 parameter CLK_PERIOD = 20;
